@@ -6,4 +6,4 @@ summary:    Now using a new theme, Pixyll.
 categories: jekyll pixyll
 ---
 
-But still no content ¯\_(ツ)_/¯
+But still no content `¯\_(ツ)_/¯`
