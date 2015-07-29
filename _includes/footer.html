@@ -1,6 +1,10 @@
 <footer class="center">
   <div class="measure">
   	<p>Laurent Ghirardotti</p>
+	<div class="clearfix"></div>
+	{% if site.show_social_icons %}
+	  {% include social_links.html %}
+	{% endif %}
     <small>Pixyll theme available on <a href="https://github.com/johnotander/pixyll">Github</a>.</small>
   </div>
 </footer>
