@@ -9,6 +9,6 @@ tags: symfony2 trick
 
 You only need Assetic and the AWS SDK, some configuration and you're good to go!
 
-Everything is in this Gist, with (for now) a large part of the code in my comment (so you need to open the [Gist page](https://gist.github.com/Remiii/83ecbd9639f150c53429)):
+Everything is in this Gist:
 
-{% gist 83ecbd9639f150c53429 %}
+{% gist e022bd15eb705ac8d50c %}
