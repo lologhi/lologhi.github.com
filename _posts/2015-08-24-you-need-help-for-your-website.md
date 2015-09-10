@@ -3,8 +3,6 @@ layout:     post
 title:      You need help for your website
 date:       2015-08-24
 summary:    As soon as I've started working on websites, I've received lots of inquiry to first, create small website for NGO, then give advices to find the right developer/CTO for whomever startup.
-categories: symfony2
-tags: symfony2 php cleanup
 ---
 
 [This is a draft for later]
