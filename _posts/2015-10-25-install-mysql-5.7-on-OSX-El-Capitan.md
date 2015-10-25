@@ -2,7 +2,7 @@
 layout:     post
 title:      Install MySQL 5.7 on OSX El Capitan
 date:       2015-10-25
-summary:    Homebrew only allow you to install MySQL 5.6, but the new RC version give you access to geoqueries, let's upgrade!
+summary:    Homebrew only allow you to install MySQL 5.6, but the new RC version give you access to Spatial features, let's upgrade!
 categories: symfony2
 tags: symfony2 form choicelist entity
 ---
@@ -37,4 +37,4 @@ lower_case_table_names = 2
 quick
 {% endhighlight %}
 
-Hope this can be help.
+Hope this can be help. Details about what you're now allowed to do on [MySQL Server blog](http://mysqlserverteam.com/mysql-5-7-and-gis-an-example/).
