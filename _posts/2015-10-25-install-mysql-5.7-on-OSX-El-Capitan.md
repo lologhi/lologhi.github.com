@@ -17,7 +17,7 @@ Once installed, if you try to connect to MySQL with `mysql -u root -p`, you'll h
 
 No more error message, but still nothing if you try to connect to your localhost with `mysql -h 127.0.0.1 -u root -p` or if you listen with `telnet 127.0.0.1 3306`. To fix that you'll need to create a configuration file: `/etc/my.conf`. Here is a basic one :
 
-{% highlight properties startinline=true %}
+{% highlight properties %}
 [client]
 port = 3306
 socket = /tmp/mysql.sock
