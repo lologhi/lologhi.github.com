@@ -7,7 +7,7 @@ categories: symfony2
 tags: symfony2 trick
 ---
 
-You only need Assetic and the AWS SDK, some configuration and you're good to go!
+You only need Assetic and the AWS SDK, some configuration and you're good to go! (thx [Remiii](https://github.com/Remiii) for this!)
 
 Everything is in this Gist:
 
