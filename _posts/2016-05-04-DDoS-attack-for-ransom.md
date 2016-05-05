@@ -17,16 +17,16 @@ After a lazy-shameless `sudo service php5-fpm restart` and seeing with `htop` th
 
 We first discovered (with [@remiii](http://github.com/remiii) who was visiting me) that my Apache2 logs where always giving us the same IP address : the ones of the AWS ELB (Elastic Load Balancer). To fix this, I had to update my `vHost` configuration to change the IP to the one sent by the ELB in the `X-Forwarded-For` header :
 
-{% highlight properties %}
+```ApacheConf
 LogFormat "\"%{X-Forwarded-For}i\" %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\"” combined_new
 ...
 ErrorLog ${APACHE_LOG_DIR}/admin_error.log
 CustomLog ${APACHE_LOG_DIR}/admin_access.log combined_new
-{% endhighlight %}
+```
 
 We were now happy to have these nice and readable logs (this is just one sec 😥):
 
-{% highlight apache %}
+```
 "185.28.193.95" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78630 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
 "115.111.179.133" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78629 "-" "Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0.1"
 "186.203.134.5" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78638 "-" "Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0"
@@ -39,11 +39,11 @@ We were now happy to have these nice and readable logs (this is just one sec �
 "79.120.72.222" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78629 "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11"
 "177.22.143.0" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78630 "-" "Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3"
 "202.21.116.13" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78630 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5"
-{% endhighlight %}
+```
 
 And we can see that the fancy tool our hacker is using is able, for a same IP, to spoof its `user-agent` between each hit (scroll on the right):
 
-{% highlight apache %}
+```
 "185.28.193.95" - - [30/Apr/2016:21:59:56 +0800] "GET / HTTP/1.1" 200 78630 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
 "185.28.193.95" - - [30/Apr/2016:21:59:57 +0800] "GET / HTTP/1.1" 200 78453 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11"
 "185.28.193.95" - - [30/Apr/2016:21:59:57 +0800] "GET / HTTP/1.1" 200 78453 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:13.0) Gecko/20100101 Firefox/13.0.1"
@@ -52,8 +52,7 @@ And we can see that the fancy tool our hacker is using is able, for a same IP, t
 "185.28.193.95" - - [30/Apr/2016:21:59:58 +0800] "GET / HTTP/1.1" 200 78651 "-" "Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0.1"
 "185.28.193.95" - - [30/Apr/2016:21:59:58 +0800] "GET / HTTP/1.1" 200 78666 "-" "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.02"
 "185.28.193.95" - - [30/Apr/2016:21:59:58 +0800] "GET / HTTP/1.1" 200 78630 "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 5.8 (build 4157); .NET CLR 2.0.50727; AskTbPTV/5.11.3.15590)"
-{% endhighlight %}
-
+```
 
 ## Scale of the attack, or is-it a DDoS?
 
@@ -89,11 +88,11 @@ After this first failure, we spent a few minutes in the villa pool, and thought 
 
 In my `HomeController.php`, I just had to add this annotation before my action :
 
-{% highlight php %}
+```php
 /**
  * @Cache(expires="tomorrow", public=true)
  */
-{% endhighlight %}
+```
 
 And to modify the `web/app.php` as explained in [The Book](http://symfony.com/doc/current/book/http_cache.html).
 

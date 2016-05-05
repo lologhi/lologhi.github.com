@@ -13,7 +13,7 @@ I've recently joined Villa-Finder, where lots of large projects where waiting fo
 
 I recently found this nice piece of really non-optimised code, playing with concatenation and calculation <del>and sadness 😭</del>.
 
-{% highlight php startinline=true %}
+```php
 public function addTrailingZeros($total)
 {
     $total = (float) $total * 100;
@@ -33,7 +33,7 @@ public function addTrailingZeros($total)
     
     return $totalWithTrailingZeros;
 }
-{% endhighlight %}
+```
 
 So here, the author is trying to _left align the original number in a 12 characters chain, with trailing zeros_.
 
@@ -43,12 +43,12 @@ Example: `149.99` will become `000000014999`.
 
 Hopefully, there is a lovely 😘 way to add trailing chars:
 
-{% highlight php startinline=true %}
+```php
 public function addTrailingZeros($total)
 {
     return sprintf('%012d', $total * 100);
 }
-{% endhighlight %}
+```
 
 With the [`sprintf`](http://php.net/sprintf) function you can specify a padding in the format part: 
 
@@ -58,9 +58,9 @@ With the [`sprintf`](http://php.net/sprintf) function you can specify a padding 
 
 And there is also a dedicated PHP function to pad a string, [`str_pad`](http://php.net/str-pad). Used in my method:
 
-{% highlight php startinline=true %}
+```php
 public function addTrailingZeros($total)
 {
     return str_pad($total, 12, "0", STR_PAD_LEFT);
 }
-{% endhighlight %}
+```
