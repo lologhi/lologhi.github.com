@@ -3,8 +3,8 @@ layout:     post
 title:      DDoS attack for a $200 ransom
 date:       2016-04-04
 summary:    Last week-end could have been a really nice week-end with some ex-colleagues and friends, in Bali. Instead, some jerk choose to DDoS us a Saturday afternoon at 4pm. Hackers, please respect my days-off!
-categories: symfony2 security DDoS cache
-tags: assets
+categories: symfony2
+tags: assets security DDoS cache
 ---
 
 So while we were visiting the really nice [Uluwatu temple](https://en.wikipedia.org/wiki/Uluwatu_Temple) with two friends/ex-colleagues, I learned, thanks to [Uptime Robot](http://uptimerobot.com) and some Slack messages from my colleagues that our website had started to be sluggish/buggy/inaccessible.
