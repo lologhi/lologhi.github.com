@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      DDoS attack for a $200 ransom
+title:      My first DDoS attack for a $200 ransom
 date:       2016-04-04
 summary:    Last week-end could have been a really nice week-end with some ex-colleagues and friends, in Bali. Instead, some jerk choose to DDoS us a Saturday afternoon at 4pm. Hackers, please respect my days-off!
 categories: symfony2
