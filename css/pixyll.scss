@@ -34,3 +34,9 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+	font-size: 15px;
+}
