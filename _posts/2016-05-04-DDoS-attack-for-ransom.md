@@ -7,6 +7,19 @@ categories: symfony2
 tags: assets security DDoS cache
 ---
 
+**2016-05-06 Edit:** Thank you [Hacker News](https://news.ycombinator.com/item?id=11637602) for the visits and comments! Here are some missing informations in my story:
+
+- I'm the only full time developer working on [Villa-Finder](http://www.villa-finder.com) websites : [Villa-Bali.com](https://www.villa-bali.com), [Villa-Phuket.com](https://www.villa-phuket.com), [SriLanka-Villa.com](https://www.srilanka-villa.com)... 🏖
+- It's the first time I'm in charge, I had to recode lots of horrible things, to add features to please my colleagues. That's my explanation for missing cache and poor performances. (I just feel it's the real life, not the fancy Valley startups who will pretend they're always state of the art on all levels.)
+- It's a small DDoS attack but it was my first one, and I previously only read about huge ones mitigated by large companies.
+- We're on AWS, it's a Symfony2 stack, with a MySQL database on RDS.
+- I'm French and try to write in English, sorry for this 🙈
+- I'm just a noob, but I'm working on it 🤘 
+
+{% include figure.html src="/images/what-a-nice-surprise.png" caption="6k visits, and only 33 in karma, are you kidding?" %}
+
+-------------
+
 So while we were visiting the really nice [Uluwatu temple](https://en.wikipedia.org/wiki/Uluwatu_Temple) with two friends/ex-colleagues, I learned, thanks to [Uptime Robot](http://uptimerobot.com) and some Slack messages from my colleagues that our website had started to be sluggish/buggy/inaccessible.
 
 After a lazy-shameless `sudo service php5-fpm restart` and seeing with `htop` that our EC2 m4.xlarge instance was still 100% on all 4 cores, it started to really look like an attack. Thanks to Fail2Ban, `iptables` and our Symfony2 refreshed code, I was feeling quite secured against SSH and SQL injections. But downtime is nether good for business, it was time to find my Mac, as [Serverauditor](https://serverauditor.com) iOS app is quite light to really investigate (but could have been enough as [spoiler] our quick-fix were quite easy to install).
@@ -73,6 +86,8 @@ By looking at Apache2 logs, we easily found that all requests were GET on the ho
 {% include figure.html src="/images/catch-them-all.gif" caption="When I'm adding iptables rule" %}
 
 Based on our Google Sheets of cleaned IP, we first thought the attack might not be distributed enough and we could just block the most harmful IPs. We added some `iptables -A INPUT -s xx.xx.xx.xx -j DROP` on what seemed to be the most harmful IPs, but it did not lower the attack. And it also broke the website as some of these IPs where AWS internal ones 🙃
+
+**2016-05-06 Edit:** this might have been fully useless, as we did not specified that the real IP to block was in `X-Forwarded-For`!!
 
 **First conclusion: it's a distributed attack, we cannot just block IPs.**
 
