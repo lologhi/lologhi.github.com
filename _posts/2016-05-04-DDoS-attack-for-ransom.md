@@ -10,7 +10,7 @@ tags: assets security DDoS cache
 **2016-05-06 Edit:** Thank you [Hacker News](https://news.ycombinator.com/item?id=11637602) for the visits and comments! Here are some missing informations in my story:
 
 - I'm the only full time developer working on [Villa-Finder](http://www.villa-finder.com) websites : [Villa-Bali.com](https://www.villa-bali.com), [Villa-Phuket.com](https://www.villa-phuket.com), [SriLanka-Villa.com](https://www.srilanka-villa.com)... 🏖
-- It's the first time I'm in charge, I had to recode lots of horrible things, to add features to please my colleagues. That's my explanation for missing cache and poor performances. (I just feel it's the real life, not the fancy Valley startups who will pretend they're always state of the art on all levels.)
+- It's the first time I'm in charge, I had to recode lots of old pieces of code, to add features to please my colleagues. That's my explanation for missing cache and poor performances. (I just feel it's the real life, not the fancy Valley startups who will pretend they're always state of the art on all levels.)
 - It's a small DDoS attack but it was my first one, and I previously only read about huge ones mitigated by large companies.
 - We're on AWS, it's a Symfony2 stack, with a MySQL database on RDS.
 - I'm French and try to write in English, sorry for this 🙈
