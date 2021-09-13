@@ -7,9 +7,6 @@ categories: liturgie
 tags: liturgie tradition rubriques
 ---
 
-# Servantes d’assemblées ou filles de chœur ?
-Laurent Ghirardotti — 27 Mai 2020
-
 Entre des ministres ordonnés qui ne sont que masculins, et des assemblées qui sont majoritairement féminines, la place des femmes dans l’Église interroge. Elles sont souvent en situation de responsabilité pour le catéchisme, la pastorale, sont chercheuses, théologiennes… Une séparation ou répartition des rôles qui peut se faire sereinement, mais semble parfois cristalliser des tensions. Ne pas autoriser les femmes à distribuer la communion, et les filles à servir l’autel peut créer de fortes tensions dans une communauté paroissiale. Nous allons nous pencher sur cette dernière problématique : qu’est-ce que le dogme affirme à propos des servant(e)s d’autel ? Repartons du concile Vatican II, et suivons les différents textes officiels publiés jusqu’à aujourd’hui.
 
 ## Parcours des textes
