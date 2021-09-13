@@ -4,7 +4,7 @@ title:      Comment s’articule le dialogue socratique et la rhétorique sophis
 date:       2021-02-04
 summary:    Devoir de philosophie du langage, où je tente d'intégrer une référence à Eminem.
 categories: philosophie
-tags: liturgie tradition rubriques
+tags: philosophie Platon rhétorique sophistique
 ---
 
 ## Introduction
