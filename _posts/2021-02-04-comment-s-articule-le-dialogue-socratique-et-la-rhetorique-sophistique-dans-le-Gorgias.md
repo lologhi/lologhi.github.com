@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Comment s’articule le dialogue socratique et la rhétorique sophistique dans le *Gorgias* ?
+title:      Comment s’articule le dialogue socratique et la rhétorique sophistique dans le Gorgias de Platon ?
 date:       2021-02-04
 summary:    Devoir de philosophie du langage, où je tente d'intégrer une référence à Eminem.
 categories: philosophie
