@@ -1,8 +1,8 @@
 # Site settings
-title:       Symfony @ Singapore
+title:       Laurent @ Séminaire
 email:       laurent@ghirardotti.fr
 author:      Laurent Ghirardotti
-description: "Trying to give back a bit of all I get."
+description: "Du dév web au séminaire de Paris"
 baseurl:     ""
 url:         "http://lologhi.github.io"
 
