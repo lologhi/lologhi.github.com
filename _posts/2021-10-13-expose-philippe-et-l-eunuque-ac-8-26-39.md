@@ -20,7 +20,7 @@ Voici ma thèse : les chrétiens hellénistes en dispersion suite aux persécuti
 ## I. Vue d’ensemble
 ### « *Les campagnes de Judée et de Samarie* », Ac 8,5-15,29
 Reprenons le plan des Actes qui nous fut présenté par le père Jean-Philippe Fabre. Un plan respectant les instructions de Jésus en Ac 1,8 : que les disciples soient ses témoins « *à Jérusalem, dans toute la Judée et la Samarie, et jusqu’aux extrémités de la terre* ». La première partie fut consacrée à la vie de l’Église à Jérusalem, dans une croissance en cohabitation dans le Temple, et en crise dans son opposition aux autorités religieuses d’Israël. Suite à la lapidation d’Etienne (7,54-60) que nous exposa Alexis la semaine passée, au début du chapitre 8, « *une violente persécution se déchaîna contre l’Église de Jérusalem* » (Ac 8,1). Heureuse persécution[^2] qui nous a valu une telle dispersion dans « *les campagnes de Judée et de Samarie* » (Ac 8,1). Nous voilà au début de la deuxième partie des Actes : Philippe part en Samarie, annonce la Bonne Nouvelle et baptise des samaritains, bientôt rejoint par Pierre et Jean qui imposent les mains pour que les samaritains reçoivent l’Esprit-Saint.
-![](./2021-10-13-carte-des-trajets.jpg)
+![Carte des trajets de la péricope](/images/2021-10-13-carte-des-trajets.jpg)
 
 ### Délimitation
 #### Limites externes
