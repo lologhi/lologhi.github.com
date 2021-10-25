@@ -190,6 +190,7 @@ Parlez avec confiance, chers fils, bien convaincus que l'esprit de Dieu, en mêm
 
 Donné à Rome, près Saint-Pierre, en la fête de l'apôtre saint Jacques, le 25 juillet de l'année 1968, de Notre pontificat la sixième.
 
+
 © Copyright - Libreria Editrice Vaticana 
 
 [^1]:   *Cf. * :   
