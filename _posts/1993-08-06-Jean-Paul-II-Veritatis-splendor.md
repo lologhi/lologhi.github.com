@@ -2,7 +2,7 @@
 layout:     post
 title:      Jean-Paul II — Veritatis Splendor
 date:       1993-08-06
-summary:    "Sur quelques questions fondamentales de l'enseignement moral de l’Église". Travail de mise en page et de correction.
+summary:    Sur quelques questions fondamentales de l'enseignement moral de l’Église. Travail de mise en page et de correction.
 tags: encyclique Vatican magistère
 ---
 
