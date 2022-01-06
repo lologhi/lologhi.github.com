@@ -3,7 +3,7 @@ title:       Laurent @ Séminaire
 email:       laurent@ghirardotti.fr
 author:      Laurent Ghirardotti
 description: "Du dév web au séminaire de Paris"
-baseurl:     ""
+baseurl:     "https://ghirardotti.fr"
 url:         "https://ghirardotti.fr"
 
 # Google analytics
