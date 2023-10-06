@@ -20,6 +20,5 @@ Quelques remarques :
 
 Est-ce que le chamanisme était vraiment une religion ? Pour le savoir, il nous faut définir une religion : [Quizz en ligne](https://qruiz.net/Q/?7XnTS9)
 
-[![Qrcode pour le quizz](images/qruiz-7XnTS9.png)](https://qruiz.net/Q/?7XnTS9)
-
+[![Qrcode pour le quizz](/images/qruiz-7XnTS9.png)](https://qruiz.net/Q/?7XnTS9)
 
