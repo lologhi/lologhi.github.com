@@ -18,7 +18,11 @@ Quelques remarques :
 
 ## 2023-10-12
 
-Est-ce que le chamanisme était vraiment une religion ? Pour le savoir, il nous faut définir une religion : [Quizz en ligne](https://qruiz.net/Q/?7XnTS9)
+Follow-up chamanisme : 
+- relation avec des esprits comme si de rien n’était dans l’interview à La Croix de Corinne Sembrun.
+{% include figure.html src="/images/Place-des-religions-Corine-cool.mp3" caption="Extrait" %}
 
-[![Qrcode pour le quizz](/images/qruiz-7XnTS9.png)](https://qruiz.net/Q/?7XnTS9)
+- À propos des relations avec les esprits, témoignage du Père Jean-Christophe Thibaut, historien des religions, spécialiste des courants ésotériques et ancien luciférien, auteur de *‌La prison des esprits. Un luciférien devenu prêtre et un ancien médium témoignent*, [en vidéo](https://www.youtube.com/watch?app=desktop&v=2wcK5t9Zbho) (avec un montage douteux) ou [en audio](https://www.rcf.fr/articles/vie-spirituelle/jeanchristophe-thibaut-rencontre-avec-un-luciferien-devenu-pretre) à la radio. 
+{% include figure.html src="/images/P.-Christophe-Thibaut-Esprits.mp4" caption="Extraite" %}
+
 
