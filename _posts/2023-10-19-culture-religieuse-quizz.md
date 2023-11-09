@@ -10,9 +10,10 @@ tags:
 
 *Disclaimer* : Forcément difficile de qualifier cette attitude, ce mode de vie… Mais on le fera sans juger les personnes, à qui il est généralement bon de foutre la paix. Nous sommes un mystère pour les autres… et pour nous-même, donc chacun à ses raisons de croire en ce qu’il veut, mais il n’y a pas de mauvaise intention dans l’idée de circonscrire la religion.
 
-Pour le savoir, essayons de définir une religion ensemble, même si ce n’est pas facile, on pourra peaufiner cette définition au fur et à mesure : [Quizz en ligne](https://qruiz.net/Q/?7XnTS9)
+Pour le savoir, essayons de définir une religion ensemble, même si ce n’est pas facile, on pourra peaufiner cette définition au fur et à mesure : [Quizz en ligne](https://forms.gle/JKdnsQ1eoXmsbwRK8)
 
-[![Qrcode pour le quizz](/images/qruiz-7XnTS9.png)](https://qruiz.net/Q/?7XnTS9)
+[![Qrcode pour le quizz](/images/form-JKdnsQ1eoXmsbwRK8.jpg)](https://forms.gle/JKdnsQ1eoXmsbwRK8)
+
 
 Une définition permettant de définir des limites, *quid* 
 - du néo-chamanisme, du spiritisme, de l’astrologie, de la colorimétrie ? 
