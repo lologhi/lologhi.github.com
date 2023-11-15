@@ -14,7 +14,7 @@ tags:
 3. Qu’est-ce qu’une religion ?
 
 #### II. Dieu
-1. L’existence de Dieu, une idée raisonnable ?
+1. L’existence de Dieu, une idée *raisonnable* ?
 	1. Argument cosmologique, Aristote par Saint Thomas.
 	2. Argument ontologique par Saint Anselme
 2. L’unicité de Dieu (Thomas, *Contra Gentiles*, 18)
@@ -37,6 +37,13 @@ Des réponses intéressantes :
 - une croyance ou une non croyance à un ou plusieurs être(s) 
 
 Et la réponse de ChatGPT : « *Selon moi, une religion est un ensemble de **croyances**, de pratiques et de valeurs spirituelles **partagées** **par un groupe** de personnes. Elle implique généralement un **culte** envers une divinité ou des forces sacrées, ainsi que des **rituels**, des **enseignements** moraux et des **règles** de conduite. Les religions peuvent jouer un rôle important dans la vie des individus en fournissant un cadre spirituel, moral et social.* »
+
+D’autres pistes d’éléments de religiosité :
+- Connexion avec les esprits et l’au-delà, 
+- Donne un sens à la vie, à la mort,
+- Fête pour rompre avec le rythme ordinaire (saison),
+- Besoin de « transcendance » ?
+- une aspiration profonde et naturelle de l’homme à quelque chose de plus grand, d’inaccessible, un besoin “inassouvissable” ? 
 
 ### Qu'est-ce qu'implique le fait de "croire" ? Quels devoirs ?
 - avoir la foi
@@ -84,4 +91,8 @@ Et les réponses de ChatGPT :
 - « *Il se peut effectivement que dans leur foi/athéisme, certaines personnes soient passés par des moments de doute. Oui il y a une place pour le doute, simplement il faut que les personnes dans ces moments de doute se rattachent à ce qu’ils estiment juste.* »
 - « *En effet, il y a une place pour le doute dans sa foi ou son athéisme, on peut se pousser à la réflexion et se demander si l'on retrouve une vérité pure ou une simple histoire qui n'est pas fiable. Cependant, la croyance n'est pas une question de vérité sûre mais une question de pensée et d'implication.* »
 → ça ne veut pas dire grand chose.
+
+## Dieu
+- Rudolf Otto, *Le Sacré* : « *Qu'est-ce que le sacré ? Pour Rudolf Otto, ce n'est pas uniquement le "religieux" ni le "non-rationnel", mais un sentiment spécifique qui permet la manifestation de forces psychiques inconscientes où se mêlent, dans une alchimie particulière, le rationnel et le non-rationnel. C'est l'impression produite par l'objet religieux, le sentiment du mystère, du "tout autre", analysé ici dans ses multiples développements. Où l'on comprend comment la religion, fondée sur le "sacré", qui est une production de la raison, permet de maintenir le lien avec le mystère.* »
+- Mircea Eliade, *Le sacré et le profane*. Distinction complexe, manifeste pourtant dans l’espace (à densité variable, un objet incarnant le sacré vs. homogénéité) et le temps (circulaire avec une importance donnée à l’origine et les fêtes cyclées vs. eschatologique, tourné vers une fin). [Un résumé.](https://1000idcg.com/sacre-profane-mircea-eliade/)
 

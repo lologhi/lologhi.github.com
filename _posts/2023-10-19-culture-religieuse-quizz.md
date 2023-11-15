@@ -14,7 +14,6 @@ Pour le savoir, essayons de définir une religion ensemble, même si ce n’est 
 
 [![Qrcode pour le quizz](/images/form-JKdnsQ1eoXmsbwRK8.jpg)](https://forms.gle/JKdnsQ1eoXmsbwRK8)
 
-
 Une définition permettant de définir des limites, *quid* 
 - du néo-chamanisme, du spiritisme, de l’astrologie, de la colorimétrie ? 
 - Shinto : « In secular Japan, what draws so many to temples and shrines? Stamp collecting and tradition », *RNS*, 9 Octobre 2023, [lien](https://religionnews.com/2023/10/09/in-secular-japan-what-draws-so-many-to-temples-and-shrines-stamp-collecting-and-tradition/).
