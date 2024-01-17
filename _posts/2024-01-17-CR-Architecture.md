@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:   Culture religieuse — Architecture
-date:    2024-01-18
+date:    2024-01-17
 summary:  
 tags: 
 ---
@@ -32,6 +32,13 @@ Mon but était de présenter la religion comme quelque chose de très répandu, 
 [![Photo de vacances 1](/images/Stonehenge1.jpeg)](/images/Stonehenge1.jpeg)
 [![Photo de vacances 2](/images/Stonehenge2.jpeg)](/images/Stonehenge2.jpeg)
 [![Alignements de Carnac](http://d3e1m60ptf1oym.cloudfront.net/384f5c57-9aca-49e3-a51f-a8229dba422c/DRO170707_419_xgaplus.jpg)](http://d3e1m60ptf1oym.cloudfront.net/384f5c57-9aca-49e3-a51f-a8229dba422c/DRO170707_419_xgaplus.jpg)
+
+### Antiquité
+- gréco-romains, avec le Parthénon comme stéréotype.
+
+![Aujourd’hui](https://monuments.fr/wp-content/uploads/2022/07/Le-Parthenon-scaled.jpeg)
+[![Reconstitution](https://cultea.fr/wp-content/uploads/2021/08/pas_2500.jpg)](https://www.youtube.com/watch?v=PWPCZ1UjYmI)
+
 
 Resources : 
 - Un reportage en cours sur Canal+ : *[Le Chant des Cathédrales](https://www.canalplus.com/decouverte/le-chant-des-cathedrales/h/23972382_50013)* par Henri d'Anselmes, connu pour son intervention dans l’attaque au couteau à Annecy le 8 juin 2023.
