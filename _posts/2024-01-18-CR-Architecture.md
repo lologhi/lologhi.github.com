@@ -24,15 +24,14 @@ Mon but était de présenter la religion comme quelque chose de très répandu, 
 
 
 ## Architecture et religion
+### Préhistoire
 - Rites funéraires : tombes.
-- Dolmen, menhir, Stonehenge.
+- Dolmen, menhir, Stonehenge, alignements de Carnac (4000 pierres levées).
 
 [![Stonehenge vu du ciel](https://www.webbaviation.co.uk/aerial/_data/i/galleries/Wiltshire/stone-henge/eb20989-stonehenge-me.jpg)](https://www.webbaviation.co.uk/aerial/_data/i/galleries/Wiltshire/stone-henge/eb20989-stonehenge-me.jpg)
 [![Photo de vacances 1](/images/Stonehenge1.jpeg)](/images/Stonehenge1.jpeg)
 [![Photo de vacances 2](/images/Stonehenge2.jpeg)](/images/Stonehenge2.jpeg)
-
-
-[![Evolutionary tree](lien)](lien)
+[![Alignements de Carnac](http://d3e1m60ptf1oym.cloudfront.net/384f5c57-9aca-49e3-a51f-a8229dba422c/DRO170707_419_xgaplus.jpg)](http://d3e1m60ptf1oym.cloudfront.net/384f5c57-9aca-49e3-a51f-a8229dba422c/DRO170707_419_xgaplus.jpg)
 
 Resources : 
 - Un reportage en cours sur Canal+ : *[Le Chant des Cathédrales](https://www.canalplus.com/decouverte/le-chant-des-cathedrales/h/23972382_50013)* par Henri d'Anselmes, connu pour son intervention dans l’attaque au couteau à Annecy le 8 juin 2023.

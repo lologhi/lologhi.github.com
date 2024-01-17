@@ -30,7 +30,7 @@ suprêmement existant, que nous nommons Dieu. Jean Damascène apporte ici une au
 
 Par les mathématiques, avec ∞. 
 
- ![Qrcode pour le quizz](https ://upload.wikimedia.org/wikipedia/commons/e/ea/Irrationnels.png)
+![Qrcode pour le quizz](https://upload.wikimedia.org/wikipedia/commons/e/ea/Irrationnels.png)
 
 > ℝ < ∞
 
