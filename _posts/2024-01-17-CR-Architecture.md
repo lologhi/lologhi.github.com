@@ -34,14 +34,15 @@ Mon but était de présenter la religion comme quelque chose de très répandu, 
 [![Alignements de Carnac](http://d3e1m60ptf1oym.cloudfront.net/384f5c57-9aca-49e3-a51f-a8229dba422c/DRO170707_419_xgaplus.jpg)](http://d3e1m60ptf1oym.cloudfront.net/384f5c57-9aca-49e3-a51f-a8229dba422c/DRO170707_419_xgaplus.jpg)
 
 ### Antiquité
-- gréco-romains, avec le Parthénon comme stéréotype.
+#### Les gréco-romains, avec le Parthénon comme stéréotype.
 
 ![Aujourd’hui](https://monuments.fr/wp-content/uploads/2022/07/Le-Parthenon-scaled.jpeg)
 [![Reconstitution](https://cultea.fr/wp-content/uploads/2021/08/pas_2500.jpg)](https://www.youtube.com/watch?v=PWPCZ1UjYmI)
 
-- Les égyptiens : le temple d'Horus à Edfou, le Temple d’Isis à Philæ, le temple de Hatchepsout… [Plus de détails ici.](https://decouvrirlemonde.fr/10-temples-de-legypte-antique-plus-fascinants/#8Le_Temple_dHorus_a_Edfou)
-- Le judaïsme avec le Temple de Jérusalem. 
+#### Les égyptiens
+Le temple d'Horus à Edfou, le Temple d’Isis à Philæ, le temple de Hatchepsout… [Plus de détails ici.](https://decouvrirlemonde.fr/10-temples-de-legypte-antique-plus-fascinants/#8Le_Temple_dHorus_a_Edfou)
 
+#### Le judaïsme avec le Temple de Jérusalem
 1. Premier sanctuaire dit Temple de Salomon, pour abriter l'Arche d’alliance ([celle là !](https://images4.alphacoders.com/110/thumb-1920-1109673.jpg)), il est détruit par les armées babyloniennes de Nabuchodonosor II en 586 av. J.-C. 
 2. Reconstruit 70 ans plus tard, de -536 à -417 ; 
 3. Agrandi par Hérode à partir de 19 av. J.-C. ; à nouveau détruit, par Rome en 70 ap. J.-C. au cours de la première guerre judéo-romaine.
@@ -53,8 +54,21 @@ Et on retrouve encore aujourd’hui la trace de la victoire Romaine sur l’arc 
 ![Détail](https://www.archeobiblion.fr/wp-content/uploads/2020/06/titus03w.png)
 
 Il ne reste aujourd’hui plus qu’une esplanade et un mur de soubassement, appelé mur des Lamentations :
-[![Photo de vacances 1](/images/Mur-des-lamentations.jpeg)](/images/Mur-des-lamentations.jpeg)
+[![Mur des lamentations](/images/Mur-des-lamentations.jpeg)](/images/Mur-des-lamentations.jpeg)
 
-Resources : 
+#### Les chrétiens
+Les premiers chrétiens sont des juifs, et selon les *Actes des apôtres* :
+> Pierre et Jean montaient au Temple pour la prière de l’après-midi, à la neuvième heure. (*Ac* 3, 1)
+
+Ils continuent à prier comme avant, tout en ayant la conviction nouvelle que le Messie attendu s’est révélé en la personne de Jésus de Nazareth.
+
+> Tous les jours, au Temple et dans leurs maisons, sans cesse, ils enseignaient et annonçaient la Bonne Nouvelle : le Christ, c’est Jésus. (*Ac* 5, 42)
+
+Apparait l’idée de prier en maison. Déjà présent chez les juifs, par le Shabbat, et les bénédictions avant les repas.
+
+
+
+
+## Resources
 - Un reportage en cours sur Canal+ : *[Le Chant des Cathédrales](https://www.canalplus.com/decouverte/le-chant-des-cathedrales/h/23972382_50013)* par Henri d'Anselmes, connu pour son intervention dans l’attaque au couteau à Annecy le 8 juin 2023.
 
