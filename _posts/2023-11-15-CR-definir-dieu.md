@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Culture religieuse — De l’existence de Dieu
+title:      Culture religieuse — Définir la religion et Dieu ?
 date:       2023-11-15
 summary:    
 tags: 
@@ -95,4 +95,12 @@ Et les réponses de ChatGPT :
 ## Dieu
 - Rudolf Otto, *Le Sacré* : « *Qu'est-ce que le sacré ? Pour Rudolf Otto, ce n'est pas uniquement le "religieux" ni le "non-rationnel", mais un sentiment spécifique qui permet la manifestation de forces psychiques inconscientes où se mêlent, dans une alchimie particulière, le rationnel et le non-rationnel. C'est l'impression produite par l'objet religieux, le sentiment du mystère, du "tout autre", analysé ici dans ses multiples développements. Où l'on comprend comment la religion, fondée sur le "sacré", qui est une production de la raison, permet de maintenir le lien avec le mystère.* »
 - Mircea Eliade, *Le sacré et le profane*. Distinction complexe, manifeste pourtant dans l’espace (à densité variable, un objet incarnant le sacré vs. homogénéité) et le temps (circulaire avec une importance donnée à l’origine et les fêtes cyclées vs. eschatologique, tourné vers une fin). [Un résumé.](https://1000idcg.com/sacre-profane-mircea-eliade/)
+
+
+
+
+Des penseurs non chrétiens : 
+- Ibn Arabi, le pivot de la pensée métaphysique de l'islam, *Doctor Maximus* à l’époque médiévale. [Wiki](https://www.wikiwand.com/fr/Ibn_Arabi). 
+- Le Tao, expliqué par François Cheng, [lien](https://www.cairn.info/revue-transversalites-2012-4-page-129.htm).
+
 
