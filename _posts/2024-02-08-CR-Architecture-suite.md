@@ -16,7 +16,7 @@ Où l’on passe de *domus ecclesiæ* aux premières églises.
 - aux réunions d’une communauté (non plus aux abords pour partager les viandes sacrifiées).
 
 ##### Raison politique
-Puis par une modification politique majeure. Alors qu’au premier siècle, le feu de Rome donne l’occasion d’une nouvelle persécution des chrétiens, quand Constantin fait fait l’Église chrétienne la religion d’État, émergent les premières basiliques constantiniennes.
+Au premier siècle, le grand incendie de Rome donne l’occasion d’une nouvelle persécution des chrétiens par Néron. Révolution quand Constantin fait fait l’Église chrétienne la religion d’État, émergent les premières basiliques constantiniennes.
 
 Construction sans destruction, comme les *tell* — de تلّ (*tall*), colline en arabe ou תל (*tel*) en hébreu) en Terre Sainte. Des sites archéologiques en forme de monticule résultant de l'accumulation de débris de bâtiments, d'habitations et de matières sur une longue période. Certains sont encore des lieux de vie aujourd’hui.
 
@@ -67,10 +67,16 @@ Ce dernier devient le patron principal de l’Empire romain, en inaugurant un no
 Constantin Ier, adepte du « Soleil invaincu » avant sa conversion, opère la christianisation de l'Empire romain, et la célébration de la naissance de Jésus de Nazareth le 25 décembre par les chrétiens de Rome remplace progressivement le culte de *Sol Invictus*.
 
 ##### Raison géographique 
-- d’abord à Rome : particulièrement sur les tombes des apôtres : Saint Jean du Latran, Saint Pierre de Rome, Saint Paul hors les Murs.
-- puis ailleurs.
+D’abord à Rome où se développe un culte d’état : 
+- [Saint Jean du Latran](https://www.wikiwand.com/fr/Basilique_Saint-Jean-de-Latran), prosaïquement, parce que Constantin Ier fait don de la colline du Latran, demeure d'une grande famille de patriciens, les Laterani, à l'évêque de Rome. Le bâtiment, long de 110 mètres, est alors la plus grande église chrétienne, consacrée en 324 par le pape Sylvestre Ier. C’est la cathédrale de l’évêque de Rome.
+![Photo](https://www.romevaticancard.com/wp-content/uploads/2018/11/SAN_GIOVANNI_IMG_3763.jpg)
+![Chœur](https://www.ulysses.travel/wp-content/uploads/2021/04/Basilique-Saint-Jean-de-Latran-abside.jpg)
+
+- [Saint Pierre de Rome](https://www.wikiwand.com/fr/Basilique%20Saint-Pierre), sur le tombeau de Saint Pierre.
+- [Saint Paul hors les Murs](https://www.wikiwand.com/fr/Basilique%20Saint-Paul-hors-les-Murs), au lieu où il fut enterré après sa décapitation par Lucina, une matrone romaine chrétienne, dans un domaine agricole le long de la Via Ostiense, en dehors du mur d'Aurélien. On y trouve les portraits en médaillon de tous les papes.
+![Photo](https://img1.advisor.travel/1200x630px-Basilica_of_Saint_Paul_Outside_the_Walls_33.jpg)
 
 Et lié au développement théologique :
-- Basilique majeure Sainte Marie Majeure
-- Cathédrale Notre Dame du Puy en Velay (basilique mineure)
+- Basilique majeure Sainte Marie Majeure.
+- Cathédrale Notre Dame du Puy en Velay (basilique mineure).
 
