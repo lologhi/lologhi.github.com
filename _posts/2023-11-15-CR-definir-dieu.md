@@ -2,7 +2,7 @@
 layout:     post
 title:      Culture religieuse — Définir la religion et Dieu ?
 date:       2023-11-15
-summary:    
+summary:    Tentative de définition de la religion.
 tags: 
 ---
 

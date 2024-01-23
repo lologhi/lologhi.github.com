@@ -2,7 +2,7 @@
 layout:     post
 title:      Culture religieuse — Ressources sur l’islam
 date:       2023-10-12
-summary:    
+summary: À propos d’une remarque sur le nom du prophète.
 tags: 
 ---
 

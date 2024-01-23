@@ -2,7 +2,7 @@
 layout:   post
 title:   Culture religieuse — Quinque viae
 date:    2023-11-15
-summary:  
+summary: Découvertes des « preuves » de Saint Thomas
 tags: 
 ---
 

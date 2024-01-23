@@ -2,7 +2,7 @@
 layout:     post
 title:      Culture religieuse — Quizz
 date:       2023-10-19
-summary:    
+summary: Questionnaire sur la religion.
 tags: 
 ---
 

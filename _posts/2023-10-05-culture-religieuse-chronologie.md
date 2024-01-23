@@ -2,7 +2,7 @@
 layout:     post
 title:      Culture religieuse — Chronologie
 date:       2023-10-05
-summary:    
+summary: Étude d’une chronologie générale des religions, avec ses intérêts et ses défauts.
 tags: 
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      Culture religieuse — Ressources sur le chamanisme
 date:       2023-09-28
-summary:    
+summary: À la découverte du néochamanisme, comme appropriation culturelle d’un patrimoine local.
 tags: 
 ---
 
