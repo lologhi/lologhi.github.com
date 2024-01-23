@@ -6,6 +6,19 @@ summary:
 tags: 
 ---
 
+### Feedback sur le semestre passé
+
+| Positif | Négatif |
+|:--|:--|
+| Les vidéos, les photos x 9 | Les textes de philo trop long x 7  |
+| Quand on aborde d’autres religions + | Trop de christianisme + |
+| Les sujets variés + | Le déjà-vu |
+| Les textes de philo s’ils sont affichés au tableau | L’architecture |
+| Lectures de la Bible |  |
+| Convivialité |  |
+
+Suggestion : utiliser les iPads.
+
 ### Antiquité (suite)
 #### Premier chrétiens
 
