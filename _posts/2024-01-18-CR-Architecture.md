@@ -2,7 +2,7 @@
 layout:   post
 title:   Culture religieuse — Architecture
 date:    2024-01-18
-summary:  
+summary: Recap du premier semestre et commencement de notre étude de l’architecture comme manifestation physique d’un sentiment religieux.
 tags: 
 ---
 

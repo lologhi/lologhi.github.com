@@ -2,7 +2,7 @@
 layout:   post
 title:   Culture religieuse — Architecture (suite)
 date:    2024-01-22
-summary:  
+summary: Résultats du questionnaire sur le premier semestre et suite du parcours architectural.
 tags: 
 ---
 
