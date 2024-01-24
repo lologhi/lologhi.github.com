@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:   Culture religieuse — Architecture (suite)
-date:    2024-01-22
+date:    2024-02-07
 summary: Résultats du questionnaire sur le premier semestre et suite du parcours architectural.
 tags: 
 ---
@@ -85,7 +85,7 @@ D’abord à Rome où se développe un culte d’état :
 ![Photo](https://www.romevaticancard.com/wp-content/uploads/2018/11/SAN_GIOVANNI_IMG_3763.jpg)
 ![Chœur](https://www.ulysses.travel/wp-content/uploads/2021/04/Basilique-Saint-Jean-de-Latran-abside.jpg)
 
-- [Saint Pierre de Rome](https://www.wikiwand.com/fr/Basilique%20Saint-Pierre), sur le tombeau de Saint Pierre.
+- [Saint Pierre de Rome](https://www.wikiwand.com/fr/Basilique%20Saint-Pierre), sur le tombeau de Saint Pierre. [Une vidéo de la chaîne Histoire TV](https://www.youtube.com/watch?v=IpdWiRGbZXk) avec reconstitution 3D.
 - [Saint Paul hors les Murs](https://www.wikiwand.com/fr/Basilique%20Saint-Paul-hors-les-Murs), au lieu où il fut enterré après sa décapitation par Lucina, une matrone romaine chrétienne, dans un domaine agricole le long de la Via Ostiense, en dehors du mur d'Aurélien. On y trouve les portraits en médaillon de tous les papes.
 ![Photo](https://img1.advisor.travel/1200x630px-Basilica_of_Saint_Paul_Outside_the_Walls_33.jpg)
 

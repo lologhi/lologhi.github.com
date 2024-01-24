@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:   Culture religieuse — « Les derniers seront les premiers »
-date:    2024-01-24
+date:    2024-02-28
 summary: Avec l’aide du podcast Prixm, étudions l’expression « Les derniers seront les premiers ».
 tags: 
 ---
