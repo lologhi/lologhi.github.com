@@ -17,7 +17,7 @@ tags:
 | Lectures de la Bible |  |
 | Convivialité |  |
 
-Suggestion : utiliser les iPads.
+Suggestion : utiliser les iPads. → application *Classroom* ?
 
 ### Antiquité (suite)
 #### Premier chrétiens
