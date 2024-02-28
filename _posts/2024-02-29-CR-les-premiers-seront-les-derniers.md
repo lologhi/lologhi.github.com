@@ -6,6 +6,12 @@ summary: Avec l’aide du podcast Prixm, étudions l’expression « Les dernie
 tags: 
 ---
 
+[*Kahoot* sur la dernière séance.](https://create.kahoot.it/my-library/kahoots/08861674-72a2-4b7d-9277-5af96018dde4)
+
+Pour la sortie au Louvre, j’ai un guide de disponible, mais ça n’ouvre qu’à 9h… sortie facultative en soirée.
+
+-----
+
 Un podcast qu’il est bon : [Prixm](https://www.prixm.org).
 
 > Beaucoup de premiers seront derniers, beaucoup de derniers seront premiers. (Mt 19, 30)
