@@ -6,6 +6,8 @@ permalink: /ordination/
 
 **Sous réserve d’être appelé à la diaconie en vue du sacerdoce par l’évêque de Paris**, voilà ce qui serait prévu !
 
+![](/images/ordination-diaconale.jpg)
+
 💒 Saint-Michel des Batignolles  
 ⏰ le dimanche 6 octobre 2024 à 18h30.
 
