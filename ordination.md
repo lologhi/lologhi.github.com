@@ -17,6 +17,8 @@ permalink: /ordination/
 
 > Demandez, et vous recevrez : ainsi votre joie sera parfaite. (*Jn* 16, 24)
 
+([Et pour l’ordination sacerdotale ?](https://ghirardotti.fr/ordination/phrase))
+
 ## C’est quoi l’ordination diaconale ?
 
 Plusieurs mois avant d’être ordonné prêtre, le candidat au sacerdoce reçoit l’ordination diaconale. Par l’imposition des mains de l’évêque et la prière de consécration, le diacre est configuré au Christ serviteur, qui « *n’est pas venu pour être servi, mais pour servir* » (*Mt* 20, 28).
