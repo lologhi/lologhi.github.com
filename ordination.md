@@ -4,7 +4,7 @@ title: Ordination diaconale de Laurent
 permalink: /ordination/
 --- 
 
-![](/images/faire-part-ordination-diaconale.pdf)
+<embed src="https://ghirardotti.fr/images/faire-part-ordination-diaconale.pdf" width="840" height="600" type="application/pdf">
 
 💒 Saint-Michel des Batignolles  
 ⏰ le dimanche 6 octobre 2024 à 18h30.
