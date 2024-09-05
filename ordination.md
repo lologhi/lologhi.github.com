@@ -15,7 +15,7 @@ permalink: /ordination/
 
 ([Et pour l’ordination sacerdotale ?](https://ghirardotti.fr/ordination/phrase))
 
-Le faire-part :
+[Le faire-part](https://ghirardotti.fr/images/faire-part-ordination-diaconale.pdf) :
 
 <embed src="https://ghirardotti.fr/images/faire-part-ordination-diaconale.pdf" width="600" height="800" type="application/pdf">
 
