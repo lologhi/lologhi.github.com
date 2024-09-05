@@ -4,8 +4,6 @@ title: Ordination diaconale de Laurent
 permalink: /ordination/
 --- 
 
-<embed src="https://ghirardotti.fr/images/faire-part-ordination-diaconale.pdf" width="840" height="600" type="application/pdf">
-
 💒 Saint-Michel des Batignolles  
 ⏰ le dimanche 6 octobre 2024 à 18h30.
 
@@ -16,6 +14,12 @@ permalink: /ordination/
 > Demandez, et vous recevrez : ainsi votre joie sera parfaite. (*Jn* 16, 24)
 
 ([Et pour l’ordination sacerdotale ?](https://ghirardotti.fr/ordination/phrase))
+
+Le faire-part :
+
+<embed src="https://ghirardotti.fr/images/faire-part-ordination-diaconale.pdf" width="600" height="800" type="application/pdf">
+
+Merci au [Studio Recto Verso](https://rectoverso.studio) !
 
 ## C’est quoi l’ordination diaconale ?
 
