@@ -7,13 +7,19 @@ permalink: /ordination/
 💒 Saint-Michel des Batignolles  
 ⏰ le dimanche 6 octobre 2024 à 18h30.
 
-- [Détails de la célébration](https://ghirardotti.fr/ordination/messe)
-- [Cadeau d’ordination](https://www.cotizup.com/ordination-laurent)
-- Ma phrase d’ordination :
+Également proposés :
+- 16h30 : Adoration
+- 17h30 : Vêpres
+- 20h00 : Buffet
+
+Ma phrase d’ordination :
 
 > Demandez, et vous recevrez : ainsi votre joie sera parfaite. (*Jn* 16, 24)
 
 ([Et pour l’ordination sacerdotale ?](https://ghirardotti.fr/ordination/phrase))
+
+- [Détails de la célébration](https://ghirardotti.fr/ordination/messe)
+- [Cadeau d’ordination](https://www.cotizup.com/ordination-laurent)
 
 [Le faire-part](https://ghirardotti.fr/images/faire-part-ordination-diaconale.pdf) :
 
