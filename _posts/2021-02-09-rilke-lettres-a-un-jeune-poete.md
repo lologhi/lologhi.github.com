@@ -7,6 +7,7 @@ categories: lecture
 tags: lecture extraits
 ---
 
+# Rilke — Lettres à un jeune poète
 GF-Flammarion, Paris, 1994
 
 ## Recommandation de lecture p. 43-44

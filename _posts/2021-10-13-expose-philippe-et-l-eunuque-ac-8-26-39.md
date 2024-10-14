@@ -6,6 +6,7 @@ summary:    Mon premier exposé de première année de théologie, pour le sémi
 tags: lecture bible Actes Philippe exposé
 ---
 
+# Exposé — Philippe et l'eunuque (Ac 8, 26-39)
 ## Introduction
 Après des conversions de masse, voilà le premier récit de baptême d’un individu. L’évangélisation hors de Jérusalem est l’occasion pour les hellénistes de se confronter aux marginaux du judaïsme : les samaritains, puis ceux de la diaspora[^1].
 

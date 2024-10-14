@@ -4,6 +4,9 @@ title:   Culture religieuse — Art et Bible (suite)
 date:    2024-06-06
 summary:  
 tags: 
+---
+
+# Culture religieuse — Art et Bible (suite)
 
 ## Une nouvelle œuvre
 ![](/images/artetbible/P2200648.JPG)

@@ -6,7 +6,7 @@ summary: Étude d’une chronologie générale des religions, avec ses intérêt
 tags: 
 ---
 
-## 2023-10-05
+# Culture religieuse — Chronologie
 
 Chronologie générale du sentiment religieux (par Wikimedia Commons) :
 

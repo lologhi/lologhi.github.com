@@ -6,6 +6,7 @@ summary: À propos d’une remarque sur le nom du prophète.
 tags: 
 ---
 
+# Culture religieuse — Islam
 ## محمد ?
 
 Habituellement transcrit en « Muḥammad », le nom du prophète est noté par quatre consonnes seulement, de droite à gauche : « m » (م), « ḥ » (ح), « m » (م) et « d » (د). 

@@ -6,6 +6,7 @@ summary:    Honorabilité du mariage - La virginité chrétienne lui est préfé
 tags: lecture Père mariage
 ---
 
+# Saint Augustin — De ce qui est bien dans le mariage.
 ## I. Société primitive de l'homme et de la femme.
 
 1. Chaque homme constitue, par lui-même, une partie du genre humain; et la nature humaine est essentiellement faite pour la société, où elle trouve d'immenses et précieux avantages, ainsi que la puissance de l'amitié. Aussi Dieu a-t-il voulu que tous les hommes fussent enfants d'un même père, afin de maintenir entre eux une société réciproque, basée non-seulement sur la similitude de genre, mais sur les liens de parenté. L'union de l'homme et de la femme est donc le premier lien naturel de la société humaine. Remarquons qu'ils ne furent pas l'objet d'une création distincte, qui les eût rendus étrangers l'un à l'autre; c'est de l'homme que Dieu forma la femme, pour marquer qu'en la tirant de la poitrine de l'homme, c'est dans le coeur que résiderait leur force d'union réciproque[^1]. On dit de ceux qui cheminent ensemble et qui ont les yeux fixés sur le même but, qu'ils marchent côte-à-côte. Un autre lien de société est formé par les enfants, le seul fruit honorable, non pas de l'union, mais des relations conjugales de l'homme et de la femme. Même en dehors de ces relations, il peut y avoir dans chacun des deux sexes un rapprochement de parenté et d'amitié, très-compatible avec l'autorité de l'un et la soumission affectueuse de l'autre.

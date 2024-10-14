@@ -6,7 +6,7 @@ summary: Recap du premier semestre et commencement de notre étude de l’archit
 tags: 
 ---
 
-# Architecture et religion 
+# Culture religieuse — Architecture et religion 
 
 ## Récap du premier semestre
 Nous avons commencé l’année avec [une présentation du néo-chamanisme](https://ghirardotti.fr/2023/09/28/culture-religieuse-chamanisme/), s’inscrivant dans une [présentation évolutionniste des religions](https://ghirardotti.fr/2023/10/05/culture-religieuse-chronologie/). Ce qui nous a permis de nous demander ce qu’était une religion, et nous l’avons défini par **une communauté partageant des croyances et des tradition en un ou plusieurs dieux**.

@@ -7,6 +7,7 @@ categories: philosophie
 tags: philosophie Platon rhétorique sophistique
 ---
 
+# Comment s’articule le dialogue socratique et la rhétorique sophistique dans le Gorgias de Platon ?
 ## Introduction
 Le *Gorgias* est une critique de la politique athénienne, où les stratèges ont progressivement été remplacés par des orateurs et des magistrats. Les décisions sont prises par des assemblées nombreuses qu’il s’agit de convaincre pour en tirer profit : au Tribunal populaire, le rhéteur est chargé de défendre une personne ou une cause. À l’Assemblée ou au Conseil, il peut légitimer une politique personnelle s’il convainc l’auditoire de son bien fondé.
 
