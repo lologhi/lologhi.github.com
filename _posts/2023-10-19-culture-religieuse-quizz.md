@@ -22,5 +22,4 @@ Une définition permettant de définir des limites, *quid*
 
 Il y a sûrement des choses qui peuvent être exclues de la définition de la religion : des spiritualités peu engagées, ou peu rationnelles ? Comme le chamanisme ou les « valeurs » prônés par les pseudo-catho ? 
 
-{% include figure.html src="/images/P.-Potez-Religion-relation.mp4" caption="Extrait" %}
-
+![Extrait)](/images/P.-Potez-Religion-relation.mp4)

@@ -3,11 +3,23 @@ title:       Laurent @ Séminaire
 email:       laurent@ghirardotti.fr
 author:      Laurent Ghirardotti
 description: "Du dév web au séminaire de Paris"
-baseurl:     "https://ghirardotti.fr"
+baseurl:     "/"
 url:         "https://ghirardotti.fr"
 
 # Google analytics
 google_analytics: "UA-39108463-6"
+
+layout:
+  theme: nord # default, vintage, nord
+  theme_highlighter: vs # default, more at css/highlighter (source: https://github.com/richleland/pygments-css)
+  theme_switch: true # enable or disable user toggle switch between light and dark theme
+  home_posts_no: 6
+  home_postheader_title: 'Articles récents'
+  home_postmeta_title: 'View all'
+  posts_home: /blog/
+  link_new_tab: true # should external links open in a new tab (true) or in the current tab (false)
+  header_desc: true # set to false to disable description in the Header.
+
 
 # Optional features
 animated:           true
@@ -21,29 +33,6 @@ disqus_shortname: "symfonysingapore"
 
 # Social icons
 github_username: lologhi
-stackoverflow_id: 
-twitter_username: 
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
 
 # Build settings
 markdown:     kramdown
@@ -53,7 +42,15 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
-gems:
+
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true

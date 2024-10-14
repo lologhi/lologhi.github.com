@@ -16,7 +16,7 @@ tags: assets security DDoS cache
 - I'm French and try to write in English, sorry for this 🙈
 - I'm just a noob, but I'm working on it 🤘 
 
-{% include figure.html src="/images/what-a-nice-surprise.png" caption="6k visits, and only 33 in karma, are you kidding?" %}
+![6k visits, and only 33 in karma, are you kidding?)](/images/what-a-nice-surprise.png)
 
 -------------
 
@@ -73,7 +73,7 @@ And we can see that the fancy tool our hacker is using is able, for a same IP, t
 
 We were now able to look at the logs and check the distribution of the IPs. I took the last 10000 lines of the access log, put them in a Google Sheets, kept only the IPs, used the `UNIQUE()` fonction to get distincts ones, and then a `COUNTIF()` function to get hits/IP.
 
-{% include figure.html src="/images/Thank-you-Excel.png" caption="It seemed to me easier than some grep pipe sed in command line #noob" %}
+![It seemed to me easier than some grep pipe sed in command line #noob)](/images/Thank-you-Excel.png)
 
 ## What are the attacked pages?
 
@@ -83,7 +83,7 @@ By looking at Apache2 logs, we easily found that all requests were GET on the ho
 
 ## `iptables`, catch 'em all!
 
-{% include figure.html src="/images/catch-them-all.gif" caption="When I'm adding iptables rule" %}
+![When I'm adding iptables rule)](/images/catch-them-all.gif)
 
 Based on our Google Sheets of cleaned IP, we first thought the attack might not be distributed enough and we could just block the most harmful IPs. We added some `iptables -A INPUT -s xx.xx.xx.xx -j DROP` on what seemed to be the most harmful IPs, but it did not lower the attack. And it also broke the website as some of these IPs where AWS internal ones 🙃
 
@@ -95,7 +95,7 @@ Based on our Google Sheets of cleaned IP, we first thought the attack might not 
 
 We first tried to switch from my EC2 m4.xlarge to a m4.10xlarge. As our websites were already down, it was quite easy to shutdown the instance, switch to the largest available, and start again. Sadly, it was 100% useless 😁
 
-{% include figure.html src="/images/M4-10xlarge.png" caption="40 cores, but still unable to process 10 requests/sec" %}
+![40 cores, but still unable to process 10 requests/sec)](/images/M4-10xlarge.png)
 
 ## Smarter (also, working) solution : caching
 
@@ -116,8 +116,7 @@ And to modify the `web/app.php` as explained in [The Book](http://symfony.com/do
 Bingo! Huge drop in CPU usage, but huge increase in bandwidth: we went from 30Mb/sec to nearly 130Mb/sec, as the instance was now able to serve the homepage to everyone.
 And we can now see that the attack ratio is quite huge. As the ~10 req/sec were spotted at 1.6Mb/sec incoming, **we were sending 80 time** what we were receiving. The bandwidth bill might be expensive this month.
 
-{% include figure.html src="/images/Attack-graph.png" caption="Before the first orange bar, it's the taxi back to reach my laptop." %}
-
+![Before the first orange bar, it's the taxi back to reach my laptop.)](/images/Attack-graph.png)
 
 ## Future solution
 
@@ -129,8 +128,8 @@ A more viable solution will be to progressively add HTTP cache on all our pages,
 
 Our attacker ransom message was stuck in our inaccessible CRM, so we only found it after we "fixed" his attack 🙃 We got its IP, but it's a Tor node.
 
-{% include figure.html src="/images/Hello-Hacker.png" caption="Sending your ransom message in the system you're currently hacking is not logic." %}
+![Sending your ransom message in the system you're currently hacking is not logic.)](/images/Hello-Hacker.png)
 
 The day after, Sunday, our friend retried, but this time I had my laptop with me. CPU peak was the time for me to re-add the caching lines (that I had removed because of weird side effects)
 
-{% include figure.html src="/images/Second-attack.jpg" caption="Guess who'd back?" %}
+![Guess who'd back?)](/images/Second-attack.jpg)

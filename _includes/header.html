@@ -1,10 +1,9 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-    </div>
-  </div>
+<header class="header">
+  <h1><a href="{{ site.baseurl | prepend: site.url }}/" title="{{ site.title }}">{{ site.title }}</a></h1>
+  {% if site.description %}
+    {% if site.layout.header_desc != false %}
+      <h2>{{ site.description | escape }}</h2>
+    {% endif %}
+  {% endif %}
+  {% include nav.html %}
 </header>
