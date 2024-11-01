@@ -7,6 +7,8 @@ permalink: /ordination/
 💒 Saint-Michel des Batignolles  
 ⏰ le dimanche 6 octobre 2024 à 18h30.
 
+**[Retour en photos](/ordination/photos-diaconale)**
+
 Également proposés :
 - 16h30 : Adoration
 - 17h30 : Vêpres
