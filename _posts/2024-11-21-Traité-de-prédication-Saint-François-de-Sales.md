@@ -10,6 +10,41 @@ tags:
 
 # Saint François de Sales — Traité de la Prédication (1604)
 
+- Avis sur la vraie manière de prêcher.
+- I — Des qualités du prédicateur.
+	- A — De la mission que doivent avoir les prédicateurs.	
+	- B — De la capacité du prédicateur	
+	- C — De la vie exemplaire des prédicateurs.
+	- D — La célébration de la messe doit précéder ou suivre la prédication, ou du moins la confession précéder.
+- II — De la fin que doit se proposer le prédicateur.
+	- A — De la fin en général.
+	- B — De la fin du prédicateur.
+	- C — Des moyens que le prédicateur doit employer pour parvenir a sa fin.
+- III — De la matière de la prédication.
+	- A — de l’écriture sainte.
+	- B — Comment il faut traiter chacune des parties de la matière dont nous venons de parler.
+- IV — De la disposition de la matière, ou de la méthode qu’il faut garder pour traiter chaque sujet.
+	- A — Avant-propos : de la méthode en général, et des diverses espèces qui se traitent dans la chaire.
+	- B — De la manière de traiter les mystères.
+	- C — Comment il faut prêcher sur un texte ou une maxime de l’écriture sainte.
+	- D — De l’homélie, ou comment il faut expliquer l’évangile.
+	- E — Méthodes pour les éloges des saints.
+	- F — De l’ordre qu’il faut garder dans les preuves.
+	- G — Que le commencement du sermon doit instruire, et la fin toucher l’auditeur.
+	- H — Moyens faciles pour remplir tous les points d’un sermon.
+	- I — Des auteurs ou l’on peut trouver des matériaux pour les sermons.
+- V — De la forme de la prédication, ou comment il faut prêcher.
+	- A — Ce qu’il faut éviter et pratiquer en général.
+	- B — Des qualités de l’action en particulier.
+	- C — De la qualité du style et de la composition.
+	- D — Règles a observer sur les complimens et la flatterie.
+	- E — De la fin du sermon, de la péroraison, et des exclamations.
+	- F — Respect que l’on doit avoir pour la parole de dieu ; comment on doit se préparer a la prédication.
+	- G — Comment il faut ménager l’auditeur.
+	- H — Ce que c’est que la prédication.
+- Suite et conclusion de la lettre.
+
+
 Avis que donne S. François de Sales à Mgr l’archevêque de Bourges, sur la vraie manière de prêcher
 
 Monseigneur,
