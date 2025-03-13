@@ -4,12 +4,27 @@ title: Ordination diaconale de Laurent
 permalink: /ordination/
 --- 
 
-💒 Saint-Michel des Batignolles  
+💒 Notre-Dame de Paris 
+⏰ le samedi 28 juin 2025 à … .
+
+
+Et ma phrase d’ordination :
+
+> Je t’aime, Seigneur, ma force : Seigneur, mon roc, ma forteresse. (*Ps* 17, 2)
+
+
+- [Cadeau d’ordination ?](https://www.cotizup.com/ordination-sacerdotale)
+
+
+
+## Avant, il y avait eu l’ordination diaconale
+
+💒 Saint-Michel des Batignolles 
 ⏰ le dimanche 6 octobre 2024 à 18h30.
 
 **[Retour en photos](/ordination/photos-diaconale)**
 
-Également proposés :
+Également proposés :
 - 16h30 : Adoration
 - 17h30 : Vêpres
 - 20h00 : Buffet
@@ -18,7 +33,7 @@ Ma phrase d’ordination :
 
 > Demandez, et vous recevrez : ainsi votre joie sera parfaite. (*Jn* 16, 24)
 
-([Et pour l’ordination sacerdotale ?](https://ghirardotti.fr/ordination/phrase))
+([Et pour l’ordination sacerdotale ?](https://ghirardotti.fr/ordination/phrase))
 
 - [Détails de la célébration](https://ghirardotti.fr/ordination/messe)
 - [Cadeau d’ordination](https://www.cotizup.com/ordination-laurent)
@@ -29,7 +44,7 @@ Ma phrase d’ordination :
 
 Merci au [Studio Recto Verso](https://rectoverso.studio) !
 
-## C’est quoi l’ordination diaconale ?
+### C’est quoi l’ordination diaconale ?
 
 Plusieurs mois avant d’être ordonné prêtre, le candidat au sacerdoce reçoit l’ordination diaconale. Par l’imposition des mains de l’évêque et la prière de consécration, le diacre est configuré au Christ serviteur, qui « *n’est pas venu pour être servi, mais pour servir* » (*Mt* 20, 28).
 

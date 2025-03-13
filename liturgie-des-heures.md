@@ -16,3 +16,4 @@ Quelques liens :
 - [vers la plateforme ko-fi pour m’aider à payer les frais de développement](https://ko-fi.com/liturgiedesheures)
 - [vers l’Apple Store](https://apps.apple.com/fr/app/liturgie-des-heures/id6479204397)
 - [vers les builds Android sur le site d’Antoine](https://servir.2ohm.fr/liturgie/)
+
