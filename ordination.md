@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ordination diaconale de Laurent
+title: Ordination sacerdotale de Laurent
 permalink: /ordination/
 --- 
 
