@@ -4,7 +4,7 @@ title: Ordination sacerdotale de Laurent
 permalink: /ordination/
 --- 
 
-💒 Notre-Dame de Paris 
+💒 Notre-Dame de Paris  
 ⏰ le samedi 28 juin 2025 à … .
 
 
@@ -19,7 +19,7 @@ Et ma phrase d’ordination :
 
 ## Avant, il y avait eu l’ordination diaconale
 
-💒 Saint-Michel des Batignolles 
+💒 Saint-Michel des Batignolles  
 ⏰ le dimanche 6 octobre 2024 à 18h30.
 
 **[Retour en photos](/ordination/photos-diaconale)**
