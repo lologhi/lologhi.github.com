@@ -2,6 +2,7 @@
 layout:   post
 title:   Messe du Lundi Saint
 date:    2025-04-10
+categories: frat
 summary:  
 tags: 
 ---

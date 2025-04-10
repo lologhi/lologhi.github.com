@@ -2,6 +2,7 @@
 layout:   post
 title:   Laudes du Mardi Saint
 date:    2025-04-10
+categories: frat
 summary:  
 tags: 
 ---
