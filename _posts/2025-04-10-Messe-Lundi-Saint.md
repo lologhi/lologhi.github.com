@@ -57,8 +57,8 @@ je garde confiance.
 
 J’en suis sûr, je verrai les bontés du Seigneur
 sur la terre des vivants.
-« *Espère le Seigneur, sois fort et prends courage ;
-espère le Seigneur.* »
+« *Espère le Seigneur, sois fort et prends courage ;*
+*espère le Seigneur.* »
 
 ## Acclamation
 ℟ Ta parole, Seigneur, est vérité, et ta loi, délivrance.
