@@ -8,7 +8,7 @@ tags:
 
 # Laudes Lundi Saint
 
-℣ Seigneur, ouvre mes lèvres,
+℣ Seigneur, ouvre mes lèvres,\
 ℟ et ma bouche publiera ta louange.
 
 ## Invitatoire (*Ps* 94)
@@ -182,22 +182,22 @@ et ton sanctuaire, de ta gloire.
 
 ![](/images/laudes/psaume18A.cropped.svg)
 
-2 Les cieux proclament la gloire de Dieu,
-le firmament raconte l’ouvrage de ses mains.
-3 Le jour au jour en livre le récit
+2 Les cieux proclament la gloire de Dieu,\
+le firmament raconte l’ouvrage de ses mains.\
+3 Le jour au jour en livre le récit\
 et la nuit à la nuit en donne connaissance.
 
-4 Pas de paroles dans ce récit,
-pas de voix qui s’entende ;
-5 mais sur toute la terre en paraît le message
+4 Pas de paroles dans ce récit,\
+pas de voix qui s’entende ;\
+5 mais sur toute la terre en paraît le message\
 et la nouvelle, aux limites du monde.
 
-Là, se trouve la demeure du soleil : +
-6 tel un époux, il paraît hors de sa tente,
+Là, se trouve la demeure du soleil : +\
+6 tel un époux, il paraît hors de sa tente,\
 il s’élance en conquérant joyeux.
 
-7 Il paraît où commence le ciel, +
-il s’en va jusqu’où le ciel s’achève :
+7 Il paraît où commence le ciel, +\
+il s’en va jusqu’où le ciel s’achève :\
 rien n’échappe à son ardeur.
 
 ## Capitule (*Jr* 11, 19-20)

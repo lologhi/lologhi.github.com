@@ -8,7 +8,7 @@ tags:
 
 # Laudes Mercredi Saint
 
-℣ Seigneur, ouvre mes lèvres,
+℣ Seigneur, ouvre mes lèvres,\
 ℟ et ma bouche publiera ta louange.
 
 ## Invitatoire (*Ps* 94)
