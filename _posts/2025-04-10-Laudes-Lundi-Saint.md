@@ -15,42 +15,42 @@ tags:
 
 *Antienne : Les yeux fixés sur Jésus Christ, entrons dans le combat de Dieu.* !
 
-^1^ Venez, crions de joie pour le Seigneur,\
+1 Venez, crions de joie pour le Seigneur,\
 acclamons notre Rocher, notre salut !\
-^2^ Allons jusqu\’à lui en rendant grâce,\
+2 Allons jusqu’à lui en rendant grâce,\
 par nos hymnes de fête acclamons-le !\
 \
-^3^ Oui, le grand Dieu, c\’est le Seigneur,\
+3 Oui, le grand Dieu, c’est le Seigneur,\
 le grand roi au-dessus de tous les dieux :\
-^4^ il tient en main les profondeurs de la terre,\
+4 il tient en main les profondeurs de la terre,\
 et les sommets des montagnes sont à lui ;\
-^5^ à lui la mer, c\’est lui qui l\’a faite,\
+5 à lui la mer, c’est lui qui l’a faite,\
 et les terres, car ses mains les ont pétries.\
 \
-^6^ Entrez, inclinez-vous, prosternez-vous,\
+6 Entrez, inclinez-vous, prosternez-vous,\
 adorons le Seigneur qui nous a faits.\
-^7^ Oui, il est notre Dieu ; +\
-nous sommes le peuple qu\’il conduit,\
+7 Oui, il est notre Dieu ; +\
+nous sommes le peuple qu’il conduit,\
 le troupeau guidé par sa main.\
 \
-Aujourd\’hui écouterez-vous sa parole ? +\
-^8^ « *Ne fermez pas votre cœur comme au désert,\
+Aujourd’hui écouterez-vous sa parole ? +\
+8 « *Ne fermez pas votre cœur comme au désert,\
 comme au jour de tentation et de défi,\
-^9^ où vos pères m\’ont tenté et provoqué,\
+9 où vos pères m’ont tenté et provoqué,\
 et pourtant ils avaient vu mon exploit.\
 \
-^10^ « *Quarante ans leur génération m\’a déçu, +\
-et j\’ai dit : Ce peuple a le cœur égaré,\
-il n\’a pas connu mes chemins.\
-^11^ Dans ma colère, j\’en ai fait le serment :\
-Jamais ils n\’entreront dans mon repos.* »
+10 « *Quarante ans leur génération m’a déçu, +\
+et j’ai dit : Ce peuple a le cœur égaré,\
+il n’a pas connu mes chemins.\
+11 Dans ma colère, j’en ai fait le serment :\
+Jamais ils n’entreront dans mon repos.* »
 
 ## Hymne : Béni soit Dieu le Père
 
 ℟ Béni soit Dieu le Père de Jésus le Seigneur\
 Qui a vaincu la mort.\
 Criez de joie pour lui, il est votre salut,\
-C\’est lui le Roi de l\’univers.
+C’est lui le Roi de l’univers.
 
 1\. Rejetez les ténèbres\
 Et venez à la lumière ,\
@@ -58,14 +58,14 @@ Désirez sa Parole,\
 Elle vous donne le salut !
 
 2\. Approchez-vous de lui,\
-Pierre d\’angle de l´Église,\
+Pierre d’angle de l’Église,\
 Rejetée par les hommes,\
 Mais précieuse auprès de Dieu !
 
 3\. Vous êtes sa demeure,\
 Devenez pierres vivantes.\
 Offrez par Jésus-Christ\
-Un sacrifice d\’amour !
+Un sacrifice d’amour !
 
 4\. Vous, la race choisie,\
 Peuple saint, peuple de rois,\
@@ -79,24 +79,24 @@ Le Père nous a dit :\
 
 ## Psaume 41
 
-*Antienne : Mon âme est triste à en mourir ; demeurez ici et veillez avec moi.* ![psaume41.cropped.svg]
+*Antienne : Mon âme est triste à en mourir ; demeurez ici et veillez avec moi.* !
 
-^2^ Comme un cerf altéré\
-  cherche l\’eau vive, \*\
+2 Comme un cerf altéré\
+  cherche l’eau vive, \*\
 ainsi mon âme te cherche\
   toi, mon Dieu.\
 \
-^3^ Mon âme a soif de Dieu,\
+3 Mon âme a soif de Dieu,\
   le Dieu vivant ; \*\
-quand pourrai-je m\’avancer,\
+quand pourrai-je m’avancer,\
   paraître face à Dieu ?\
 \
-^4^ Je n\’ai d\’autre pain que mes larmes,\
+4 Je n’ai d’autre pain que mes larmes,\
   le jour, la nuit, \*\
 moi qui chaque jour entends dire :\
   « *Où est-il ton Dieu ?* »\
 \
-^5^ Je me souviens, ![AT15.cropped.svg]\
+5 Je me souviens, !\
   et mon âme déborde : \*\
  en ce temps-là,\
   je franchissais les portails !\
@@ -106,37 +106,37 @@ Je conduisais vers la maison de mon Dieu\
 parmi les cris de joie\
   et les actions de grâce.\
 \
-℟ ^6^ Pourquoi te désoler, ô mon âme,\
+℟ 6 Pourquoi te désoler, ô mon âme,\
   et gémir sur moi ? \*\
 Espère en Dieu ! De nouveau je rendrai grâce :\
   il est mon sauveur et mon Dieu !\
  \
-^7^ Si mon âme se désole,\
+7 Si mon âme se désole,\
   je me souviens de toi, \*\
-depuis les terres du Jourdain et de l\’Hermon,\
+depuis les terres du Jourdain et de l’Hermon,\
   depuis mon humble montagne.\
 \
-^8^ L\’abîme appelant l\’abîme\
+8 L’abîme appelant l’abîme\
   à la voix de tes cataractes, \*\
 la masse de tes flots et de tes vagues\
   a passé sur moi.\
 \
-^9^ Au long du jour, le Seigneur\
-  m\’envoie son amour ; \*\
+9 Au long du jour, le Seigneur\
+  m’envoie son amour ; \*\
 et la nuit, son chant est avec moi,\
   prière au Dieu de ma vie.\
 \
-^10^ Je dirai à Dieu, mon rocher :\
-  « *Pourquoi m\’oublies-tu ? \*\
+10 Je dirai à Dieu, mon rocher :\
+  « *Pourquoi m’oublies-tu ? \*\
 Pourquoi vais-je assombri,\
-  pressé par l\’ennemi ?* »\
+  pressé par l’ennemi ?* »\
 \
-^11^ Outragé par mes adversaires,\
-  je suis meurtri jusqu\’aux os, \*\
+11 Outragé par mes adversaires,\
+  je suis meurtri jusqu’aux os, \*\
 moi qui chaque jour entends dire :\
   « *Où est-il ton Dieu ?* »\
 \
-℟ ^12^ Pourquoi te désoler, ô mon âme,\
+℟ 12 Pourquoi te désoler, ô mon âme,\
   et gémir sur moi ? \*\
 Espère en Dieu ! De nouveau je rendrai grâce  :\
   il est mon sauveur et mon Dieu !
@@ -145,62 +145,52 @@ Espère en Dieu ! De nouveau je rendrai grâce  :\
 
 *Antienne : C’est maintenant le jugement de ce monde ; désormais le prince de ce monde sera jeté dehors.*
 
-^1^ Prends pitié de nous, Maître et Dieu de tout ;\
+1 Prends pitié de nous, Maître et Dieu de tout ;\
 répands la crainte sur toutes les nations.\
-^2^ Lève la main sur les pays étrangers,\
-et qu\’ils voient ta puissance !\
+2 Lève la main sur les pays étrangers,\
+et qu’ils voient ta puissance !\
 \
-^3^ À nos dépens, tu leur montras ta sainteté ;\
+3 À nos dépens, tu leur montras ta sainteté ;\
 à leurs dépens, montre-nous ta grandeur.\
-^4^ Qu\’ils l\’apprennent, comme nous l\’avons appris :\
-il n\’est pas de dieu hors de toi, Seigneur.\
+4 Qu’ils l’apprennent, comme nous l’avons appris :\
+il n’est pas de dieu hors de toi, Seigneur.\
 \
-^5^ Renouvelle les prodiges, recommence les merveilles,\
+5 Renouvelle les prodiges, recommence les merveilles,\
 glorifie ta main et ton bras droit.\
-^7^ Hâte le temps, rappelle-toi le terme,\
+7 Hâte le temps, rappelle-toi le terme,\
 et que soient racontées tes merveilles !\
 \
-^10^ Rassemble les tribus de Jacob ;\
+10 Rassemble les tribus de Jacob ;\
 comme au premier jour, donne-leur ton héritage.\
-^11^ Prends pitié du peuple porteur de ton nom,\
+11 Prends pitié du peuple porteur de ton nom,\
 Israël qui est pour toi un premier-né.\
 \
-^12^ Prends compassion de ta ville sainte,\
+12 Prends compassion de ta ville sainte,\
 Jérusalem, le lieu de ton repos.\
-^13^ Remplis Sion de ta louange,\
+13 Remplis Sion de ta louange,\
 et ton sanctuaire, de ta gloire.
 
 ## Psaume 18A
 
-*Antienne : Jésus, méprisant l’infamie, a souffert la croix : il est assis à la droite de Dieu.* ![psaume18A.cropped.svg]
+*Antienne : Jésus, méprisant l’infamie, a souffert la croix : il est assis à la droite de Dieu.* !
 
-^2^ Les cieux proclament la gloire de Dieu,
-
-le firmament raconte l\’ouvrage de ses mains.
-
-^3^ Le jour au jour en livre le récit
-
+2 Les cieux proclament la gloire de Dieu,
+le firmament raconte l’ouvrage de ses mains.
+3 Le jour au jour en livre le récit
 et la nuit à la nuit en donne connaissance.
 
-^4^ Pas de paroles dans ce récit,
-
-pas de voix qui s\’entende ;
-
-^5^ mais sur toute la terre en paraît le message
-
+4 Pas de paroles dans ce récit,
+pas de voix qui s’entende ;
+5 mais sur toute la terre en paraît le message
 et la nouvelle, aux limites du monde.
 
 Là, se trouve la demeure du soleil : +
+6 tel un époux, il paraît hors de sa tente,
+il s’élance en conquérant joyeux.
 
-^6^ tel un époux, il paraît hors de sa tente,
-
-il s\’élance en conquérant joyeux.
-
-^7^ Il paraît où commence le ciel, +
-
-il s\’en va jusqu\’où le ciel s\’achève :
-
-rien n\’échappe à son ardeur.
+7 Il paraît où commence le ciel, +
+il s’en va jusqu’où le ciel s’achève :
+rien n’échappe à son ardeur.
 
 ## Capitule (*Jr* 11, 19-20)
 
@@ -221,44 +211,44 @@ avec lui nous régnerons. \* ℟
 
 ## Cantique de Zacharie (*Lc* 1)
 
-*Antienne : Père juste, le monde ne t’a pas connu, mais moi, je t’ai connu, toi qui m’as envoyé.* ![benedictus.cropped.svg]
+*Antienne : Père juste, le monde ne t’a pas connu, mais moi, je t’ai connu, toi qui m’as envoyé.* !
 
 
-^68^ Béni soit le Seigneur, le Dieu d\’Israël,\
+68 Béni soit le Seigneur, le Dieu d’Israël,\
 qui visite et rachète son peuple.\
 \
-^69^ Il a fait surgir la force qui nous sauve\
+69 Il a fait surgir la force qui nous sauve\
 dans la maison de David, son serviteur,\
 \
-^70^ comme il l\’avait dit par la bouche des saints,\
+70 comme il l’avait dit par la bouche des saints,\
 par ses prophètes, depuis les temps anciens :\
 \
-^71^ salut qui nous arrache à l\’ennemi,\
+71 salut qui nous arrache à l’ennemi,\
 à la main de tous nos oppresseurs,\
 \
-^72^ amour qu\’il montre envers nos pères,\
+72 amour qu’il montre envers nos pères,\
 mémoire de son alliance sainte,\
 \
-^73^ serment juré à notre père Abraham\
+73 serment juré à notre père Abraham\
   de nous rendre sans crainte,\
 \
-^74^ afin que, délivrés de la main des ennemis, +\
-^75^ nous le servions dans la justice et la sainteté,\
+74 afin que, délivrés de la main des ennemis, +\
+75 nous le servions dans la justice et la sainteté,\
 en sa présence, tout au long de nos jours.\
 \
-^76^ Et toi, petit enfant, tu seras appelé\
+76 Et toi, petit enfant, tu seras appelé\
   prophète du Très-Haut : \*\
 tu marcheras devant, à la face du Seigneur,\
   et tu prépareras ses chemins\
 \
-^77^ pour donner à son peuple de connaître le salut\
+77 pour donner à son peuple de connaître le salut\
 par la rémission de ses péchés,\
 \
-^78^ grâce à la tendresse, à l\’amour de notre Dieu,\
-quand nous visite l\’astre d\’en haut,
+78 grâce à la tendresse, à l’amour de notre Dieu,\
+quand nous visite l’astre d’en haut,
 
-^79^ pour illuminer ceux qui habitent les ténèbres\
-  et l\’ombre de la mort, \*\
+79 pour illuminer ceux qui habitent les ténèbres\
+  et l’ombre de la mort, \*\
 pour conduire nos pas\
   au chemin de la paix.
 
