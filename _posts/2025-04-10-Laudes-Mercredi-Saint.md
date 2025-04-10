@@ -6,7 +6,7 @@ summary:
 tags: 
 ---
 
-# Mercredi Saint
+# Laudes Mercredi Saint
 
 ℣ Seigneur, ouvre mes lèvres,
 ℟ et ma bouche publiera ta louange.
@@ -14,6 +14,8 @@ tags:
 ## Invitatoire (*Ps* 94)
 
 *Antienne : Les yeux fixés sur Jésus Christ, entrons dans le combat de Dieu.* !
+
+![](/images/laudes/psaume94.cropped.svg)
 
 1 Venez, crions de joie pour le Seigneur,\
 acclamons notre Rocher, notre salut !\
@@ -70,6 +72,8 @@ Que nous brûlions de charité !
 ## Psaume 76
 
 *Antienne : Au jour de la détresse, je cherche le Seigneur ; vers lui, je tends les mains sans relâche.* !
+
+![](/images/laudes/psaume76.cropped.svg)
 
 2 Vers Dieu, je crie mon appel !\
 Je crie vers Dieu : qu’il m’entende !\
@@ -183,6 +187,8 @@ il relèvera le front de son messie.
 
 *Antienne : Par Dieu, le Christ est devenu pour nous sagesse et justice, sanctification et salut.* !
 
+![](/images/laudes/psaume96.cropped.svg)
+
 1 Le Seigneur est roi ! Exulte la terre !\
 Joie pour les îles sans nombre !\
 \
@@ -238,6 +244,8 @@ il a plu au Seigneur. \*
 ## Cantique de Zacharie (*Lc* 1)
 
 *Antienne : Poussé par l’Esprit, Jésus s’est offert lui-même à son Père ; son sang nous purifie des œuvres mortes pour que nous servions le Dieu vivant.* !
+
+![](/images/laudes/benedictus.cropped.svg)
 
 68 Béni soit le Seigneur, le Dieu d’Israël,\
 qui visite et rachète son peuple.\

@@ -15,6 +15,7 @@ tags:
 
 *Antienne : Aujourd’hui, ne fermons pas notre cœur, mais écoutons la voix du Seigneur.* !
 
+![](/images/laudes/psaume94.cropped.svg)
 
 1 Venez, crions de joie pour le Seigneur,\
 acclamons notre Rocher, notre salut !\
@@ -76,6 +77,8 @@ En lui, fais ce qui est bien.
 ## Psaume 42
 
 *Antienne : Défends ma cause, ô mon Dieu ; de l’homme qui ruse et qui trahit libère-moi.* !
+
+![](/images/laudes/psaume42.cropped.svg)
 
 1 Rends-moi justice, ô mon Dieu, défends ma cause\
   contre un peuple sans foi ; \*\
@@ -165,6 +168,8 @@ auprès de la maison du Seigneur.
 
 *Antienne : Mon serviteur justifiera les multitudes, il se chargera de leurs péchés.* !
 
+![](/images/laudes/psaume64.cropped.svg)
+
 2 Il est beau de te louer,
 Dieu, dans Sion, \*
 de tenir ses promesses envers toi
@@ -234,6 +239,7 @@ Je répandrai sur la maison de David et sur les habitants de Jérusalem un espri
 
 *Antienne : Père, glorifie-moi auprès de toi de la gloire que j’avais avant la création du monde.* !
 
+![](/images/laudes/benedictus.cropped.svg)
 
 68 Béni soit le Seigneur, le Dieu d’Israël,\
 qui visite et rachète son peuple.\
