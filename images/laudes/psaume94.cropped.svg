@@ -1,0 +1,334 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="190.00mm" height="36.15mm" viewBox="0.0000 -4.5700 108.1205 20.5740">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(44.8624, 1.9022)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(8.5358, 3.9022)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+</g>
+<g transform="translate(8.5358, 2.9022)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+</g>
+<g transform="translate(8.5358, 1.9022)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+</g>
+<g transform="translate(8.5358, 0.9022)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+</g>
+<g transform="translate(8.5358, -0.0978)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+</g>
+<g transform="translate(107.9305, 1.9022)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(73.8265, 1.9022)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(103.8646, 1.9022)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:19:8:9">
+<g transform="translate(17.5358, -2.6678)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Re</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:32:15:16">
+<g transform="translate(17.5358, 4.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:32:19:20">
+<g transform="translate(17.5358, -0.6478)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(9.3358, 2.9022)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:30:6:7">
+<g transform="translate(12.8358, -0.0978)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(13.9358, 1.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:32:34:35">
+<g transform="translate(28.5823, 3.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:19:16:17">
+<g transform="translate(39.6287, -2.6678)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>La</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:32:47:48">
+<g transform="translate(39.6287, 2.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.8680, 1.9022)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:34:15:16">
+<g transform="translate(46.5000, 2.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:34:18:19">
+<g transform="translate(46.5000, -0.6478)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:34:33:34">
+<g transform="translate(57.5464, 1.9022)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:34:45:46">
+<g transform="translate(68.5929, 2.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(69.8321, 1.9022)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:36:15:16">
+<g transform="translate(75.4641, 2.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:36:18:19">
+<g transform="translate(75.4641, -1.2260)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:36:33:34">
+<g transform="translate(80.5325, 3.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:36:38:39">
+<g transform="translate(91.5789, 2.9022)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.1289, 2.9022)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:21:20:21">
+<g transform="translate(102.6254, -2.6678)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Re</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:36:52:53">
+<g transform="translate(102.6254, 3.4022)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.1949, 11.9589)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(0.0000, 14.9589)">
+<rect x="41.4579" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(0.0000, 13.9589)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(0.0000, 12.9589)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(0.0000, 11.9589)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(0.0000, 10.9589)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(0.0000, 9.9589)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(107.5205, 11.9589)">
+<rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(107.0305, 11.9589)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(74.2466, 11.9589)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:24:24:25">
+<g transform="translate(101.9308, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Re</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(0.8000, 12.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(4.3000, 9.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(5.4000, 11.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:22:8:9">
+<g transform="translate(9.0000, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Re</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:38:15:16">
+<g transform="translate(9.0000, 13.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:38:19:20">
+<g transform="translate(9.0000, 9.4089)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:38:34:35">
+<g transform="translate(13.8854, 13.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:38:38:39">
+<g transform="translate(24.4903, 13.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:22:20:21">
+<g transform="translate(35.0952, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Si</tspan>
+</text>
+</g>
+<g transform="translate(37.5876, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:38:51:52">
+<g transform="translate(35.0952, 14.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.3344, 11.9589)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:40:15:16">
+<g transform="translate(41.7839, 15.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:40:18:19">
+<g transform="translate(41.7839, 8.9784)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>(5)</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:40:35:36">
+<g transform="translate(47.9371, 14.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:40:39:40">
+<g transform="translate(58.5420, 13.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:23:26:27">
+<g transform="translate(69.1469, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Re</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:40:51:52">
+<g transform="translate(69.1469, 14.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.3861, 11.9589)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:42:15:16">
+<g transform="translate(75.8356, 14.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:42:18:19">
+<g transform="translate(75.8356, 8.9784)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>(6)</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:24:12:13">
+<g transform="translate(80.7210, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>Mi</tspan>
+</text>
+</g>
+<g transform="translate(83.6574, 7.3889)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:42:35:36">
+<g transform="translate(80.7210, 12.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(79.6868, 12.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(103.1700, 11.9589)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:42:40:41">
+<g transform="translate(91.3259, 13.9589)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/laurent/Code/liturgie-app/liturgie-des-heures_psaumes/psaumes/invitatoires/psaume94.ly:42:52:53">
+<g transform="translate(101.9308, 14.4589)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+</svg>

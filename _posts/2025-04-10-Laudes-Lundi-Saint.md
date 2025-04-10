@@ -15,6 +15,8 @@ tags:
 
 *Antienne : Les yeux fixés sur Jésus Christ, entrons dans le combat de Dieu.* !
 
+![](/images/laudes/psaume94.cropped.svg)
+
 1 Venez, crions de joie pour le Seigneur,\
 acclamons notre Rocher, notre salut !\
 2 Allons jusqu’à lui en rendant grâce,\
@@ -81,6 +83,8 @@ Le Père nous a dit :\
 
 *Antienne : Mon âme est triste à en mourir ; demeurez ici et veillez avec moi.* !
 
+![](/images/laudes/psaume41.cropped.svg)
+
 2 Comme un cerf altéré\
   cherche l’eau vive, \*\
 ainsi mon âme te cherche\
@@ -145,6 +149,8 @@ Espère en Dieu ! De nouveau je rendrai grâce  :\
 
 *Antienne : C’est maintenant le jugement de ce monde ; désormais le prince de ce monde sera jeté dehors.*
 
+![](/images/laudes/AT15.cropped.svg)
+
 1 Prends pitié de nous, Maître et Dieu de tout ;\
 répands la crainte sur toutes les nations.\
 2 Lève la main sur les pays étrangers,\
@@ -173,6 +179,8 @@ et ton sanctuaire, de ta gloire.
 ## Psaume 18A
 
 *Antienne : Jésus, méprisant l’infamie, a souffert la croix : il est assis à la droite de Dieu.* !
+
+![](/images/laudes/psaume18A.cropped.svg)
 
 2 Les cieux proclament la gloire de Dieu,
 le firmament raconte l’ouvrage de ses mains.
@@ -213,6 +221,7 @@ avec lui nous régnerons. \* ℟
 
 *Antienne : Père juste, le monde ne t’a pas connu, mais moi, je t’ai connu, toi qui m’as envoyé.* !
 
+![](/images/laudes/benedictus.cropped.svg)
 
 68 Béni soit le Seigneur, le Dieu d’Israël,\
 qui visite et rachète son peuple.\

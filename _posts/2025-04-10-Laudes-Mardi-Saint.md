@@ -106,6 +106,8 @@ Espère en Dieu ! De nouveau je rendrai grâce :\
 
 *Antienne : Seigneur, tu as défendu ma cause, mon Dieu, tu as sauvé ma vie.*
 
+![](/images/laudes/AT23.cropped.svg)
+
 10 Je disais : Au milieu de mes jours,\
   je m’en vais ; \*\
 j’ai ma place entre les morts\

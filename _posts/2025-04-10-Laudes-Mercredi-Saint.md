@@ -134,6 +134,8 @@ par la main de Moïse et d’Aaron.
 
 *Antienne : Si nous passons par la mort avec le Christ, nous croyons que nous vivrons avec lui.*
 
+![](/images/laudes/AT3.cropped.svg)
+
 1 Mon cœur exulte à cause du Seigneur ;\
 mon front s’est relevé grâce à mon Dieu !\
 Face à mes ennemis, s’ouvre ma bouche :\
