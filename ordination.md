@@ -20,7 +20,9 @@ Si vous souhaitez participer à la cagnotte pour un [🎁 cadeau d’ordination 
 
 ## Comment y assister ?
 
-Je n’ai que 59 places assises que je peux garantir dans la cathédrale. Vous serez prévenu si vous êtes de ces *VIP* 😎 (il faudra quand même arriver entre 8 et 9h pour récupérer le carton permettant d’entrer dans la cathédrale), et désolé si ce n’est pas le cas ! Mais il y a plein d’autres options, vous pouvez : 
+Je n’ai que 59 places assises que je peux garantir dans la cathédrale. Vous serez prévenu si vous êtes de ces *VIP* 😎 (il faudra quand même arriver entre 8 et 9h pour récupérer le carton permettant d’entrer dans la cathédrale), et désolé si ce n’est pas le cas ! 
+
+Vous n'êtes pas sur cette liste mais souhaitez voir la célébration ? Vous pouvez : 
 - ⏰ arriver très tôt (dès 7h30) pour espérer avoir une place à l’intérieur, 
 - ☀️ ou rester sur le parvis où la cérémonie commencera (jusqu’à l’homélie il me semble…), et il y aura un grand écran.
 - 📺 ou suivre sur [KTO](https://www.ktotv.com) 
