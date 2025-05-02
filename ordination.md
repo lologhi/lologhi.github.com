@@ -28,7 +28,7 @@ Vous n'êtes pas sur cette liste mais souhaitez voir la célébration ? Vous po
 - 📺 ou suivre sur [KTO](https://www.ktotv.com) 
 - 📻 ou [Radio Notre-Dame](https://radionotredame.net) (FM 100.7 en région parisienne).
 
-À l’issu de la célébration, je bénirai sur le parvis, avant de rejoindre une petite réception à proximité. Pour le coup j’ai 150 places, les heureux élus seront également informés, et désolé s’il y a des déçus !
+À l’issu de la célébration, je bénirai sur le parvis, avant de rejoindre une petite réception à proximité. Pour le coup j’ai 150 places : les heureux élus seront également informés, soyez certain que j'aurai aimé vous recevoir toutes et tous (désolé) !
 
 ## Premières messes
 
