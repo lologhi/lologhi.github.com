@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ordination sacerdotale de Laurent
+description: 28 juin 2025 9h30 à Notre-Dame de Paris
 permalink: /ordination/
 --- 
 
