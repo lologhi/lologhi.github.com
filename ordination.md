@@ -13,6 +13,7 @@ L’ordination est prévue :
 
 💒 à Notre-Dame de Paris  
 ⏰ le samedi 28 juin 2025 à 9h30.
+🎫 [Le faire-part](https://ghirardotti.fr/images/faire-part-ordination-sacerdotale.pdf) (toujours par [Studio Recto Verso](https://rectoverso.studio))
 
 Si vous souhaitez participer à la cagnotte pour un [🎁 cadeau d’ordination 🎁, ça se passe là !](https://www.cotizup.com/ordination-sacerdotale) Comme tout le matériel liturgique est déjà disponible en paroisse… je compte m’offrir une nouvelle bicyclette 🚲 !
 
