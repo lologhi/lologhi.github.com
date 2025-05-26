@@ -16,7 +16,12 @@ L’ordination est prévue :
 ⏰ le samedi 28 juin 2025 à 9h30  
 🎫 [et le faire-part](https://ghirardotti.fr/images/faire-part-ordination-sacerdotale.pdf) (toujours par [Studio Recto Verso](https://rectoverso.studio))
 
-Si vous souhaitez participer à la cagnotte pour un [🎁 cadeau d’ordination 🎁, ça se passe là !](https://www.cotizup.com/ordination-sacerdotale) Ça m’aidera à m’équiper en matériel liturgique (calice et patène, une nouvelle aube, étoles et chasubles au couleurs liturgiques…), et peut-être aussi à m’offrir une nouvelle bicyclette 🚲 !
+### Cadeau d’ordination 🎁
+
+Si vous souhaitez participer à la cagnotte pour un [cadeau d’ordination, ça se passe là !](https://www.cotizup.com/ordination-sacerdotale) Ça m’aidera à m’équiper 
+- en matériel liturgique (calice et patène, étoles et chasubles aux couleurs liturgiques…), 
+- et peut-être aussi à m’offrir une nouvelle bicyclette 🚲,
+- et une guitare 🎸
 
 ## Comment y assister ?
 
@@ -43,5 +48,3 @@ Si vous souhaitez assister à l’une de mes premières messes, voilà le progra
 —————————
 
 Avant, le 6 octobre 2024, il y avait eu mon ordination diaconale, et les informations sont maintenant [déplacées sur cette page](/ordination/diaconale).
-
-
