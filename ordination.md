@@ -5,6 +5,8 @@ description: 28 juin 2025 9h30 à Notre-Dame de Paris
 permalink: /ordination/
 --- 
 
+**[📸 Retour en photos 📸](/ordination/photos-sacerdotale)**
+
 J’ai choisi comme phrase d’ordination une déclaration d’amour :
 
 > Je t’aime, Seigneur, ma force :  
