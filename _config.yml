@@ -1,8 +1,8 @@
 # Site settings
-title:       Laurent @ Séminaire
+title:       Père Laurent
 email:       laurent@ghirardotti.fr
 author:      Laurent Ghirardotti
-description: "Du dév web au séminaire de Paris"
+description: "Dev web → prêtrise"
 baseurl:     "/"
 url:         "https://ghirardotti.fr"
 
