@@ -6,7 +6,7 @@ permalink: /catechumenat/
 --- 
 
 Retrouvez nos séances :
-- jeudi 11 septembre : [Le signe de croix (1)](catechumenat/01-signe-de-croix)
+- jeudi 11 septembre : [Le signe de croix (1)](/catechumenat/01-signe-de-croix)
 - jeudi 25 septembre : Pater et Ave Maria (2&3)
 - jeudi 9 octobre : Le mystère du Mal (4)
 - jeudi 6 novembre : L’Évangile (5)
